@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <record>
+        <id>1</id>
+        <first_name>John</first_name>
+        <last_name>Doe</last_name>
+        <email>john.doe@example.com</email>
+        <occupation>Software Engineer</occupation>
+    </record>
+    <record>
+        <id>2</id>
+        <first_name>Jane</first_name>
+        <last_name>Smith</last_name>
+        <email>jane.smith@example.com</email>
+        <occupation>Data Scientist</occupation>
+    </record>
+    <record>
+        <id>3</id>
+        <first_name>Mike</first_name>
+        <last_name>Johnson</last_name>
+        <email>mike.j@example.com</email>
+        <occupation>AI Architect</occupation>
+    </record>
+</records>
